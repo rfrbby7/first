@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Solution is 2
+=======
+Solution is not 1
+>>>>>>> 99bdeb94292a090914c5ef921ec9f3bee9bfff15
